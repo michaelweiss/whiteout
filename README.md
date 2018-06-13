@@ -2,7 +2,7 @@ Whiteout provides tools to clean up text documents.
 
 ## Prerequisites
 
-Whiteout requires [Flask](http://flask.pocoo.org). You also need to install the libraries required by [TextTeaser](https://github.com/IndigoResearch/textteaser).
+Whiteout requires [Flask](http://flask.pocoo.org) and [TextTeaser](https://github.com/IndigoResearch/textteaser).
 
 ## Use
 
