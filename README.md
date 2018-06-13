@@ -1,8 +1,8 @@
-Summarize provides a web interface to [TextTeaser](https://github.com/IndigoResearch/textteaser) for summarizing documents.
+Whiteout provides tools to clean up text documents.
 
 ## Prerequisites
 
-Whiteout requires [Flask](http://flask.pocoo.org). You also need to install the libraries required by TextTeaser.
+Whiteout requires [Flask](http://flask.pocoo.org). You also need to install the libraries required by [TextTeaser](https://github.com/IndigoResearch/textteaser).
 
 ## Use
 
